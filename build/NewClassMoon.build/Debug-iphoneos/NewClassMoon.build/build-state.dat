@@ -1,0 +1,1511 @@
+TNewClassMoon
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D54CFAF0000000000000AB3
+t1297403823
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004D5DEAA80000000000000294
+t1298000552
+s660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D5DEAE900000000003A84E0
+t1298000617
+s3835104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54D0D40000000000001A58
+t1297404116
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/arpa/inet.h
+c000000004D54C5330000000000001533
+t1297401139
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/ifaddrs.h
+c000000004D54C53300000000000008F5
+t1297401139
+s2293
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/netdb.h
+c000000004D54C533000000000000307F
+t1297401139
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/netinet/in.h
+c000000004D54CB250000000000006BAC
+t1297402661
+s27564
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/netinet6/in6.h
+c000000004D54CB24000000000000638F
+t1297402660
+s25487
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/sys/socket.h
+c000000004D54CB290000000000005ACF
+t1297402665
+s23247
+
+N/MAC Files/Xcode projects/NewClassMoon/1.png
+c000000004EA908EE000000000000328D
+t1319700718
+s12941
+
+N/MAC Files/Xcode projects/NewClassMoon/2.png
+c000000004EA908BA0000000000002D52
+t1319700666
+s11602
+
+N/MAC Files/Xcode projects/NewClassMoon/3.png
+c000000004EA9086A000000000000392B
+t1319700586
+s14635
+
+N/MAC Files/Xcode projects/NewClassMoon/4.png
+c000000004EA907B10000000000002292
+t1319700401
+s8850
+
+N/MAC Files/Xcode projects/NewClassMoon/5.png
+c000000004EA907FE00000000000026FB
+t1319700478
+s9979
+
+N/MAC Files/Xcode projects/NewClassMoon/8.png
+c000000004EA909D9000000000000331A
+t1319700953
+s13082
+
+N/MAC Files/Xcode projects/NewClassMoon/About.h
+c000000004E9EB9F00000000000000138
+t1319025136
+s312
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/About.m
+c000000004F3783160000000000000891
+t1329038102
+s2193
+i"About.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/About.png
+c000000004CB828460000000000000B8A
+t1287137350
+s2954
+
+N/MAC Files/Xcode projects/NewClassMoon/About.xib
+c000000004ECB981900000000000058B4
+t1321965593
+s22708
+
+N/MAC Files/Xcode projects/NewClassMoon/Back.png
+c000000004EA906470000000000014416
+t1319700039
+s82966
+
+N/MAC Files/Xcode projects/NewClassMoon/ClassMoon_Icon.png
+c000000004E27F474000000000000184B
+t1311241332
+s6219
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/../MainWindow.xib
+c000000004EDDF16D000000000000A416
+t1323168109
+s42006
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContent.h
+c000000004ED32CD400000000000002A0
+t1322462420
+s672
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContent.m
+c000000004F365672000000000000372E
+t1328961138
+s14126
+i"AcadContent.h"
+i"AcadContentDetails.h"
+i"JSON.h"
+i"asyncimageview.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContent.xib
+c000000004ECCA3E200000000000057F5
+t1322034146
+s22517
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContentDetails.h
+c000000004EDB3862000000000000059A
+t1322989666
+s1434
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContentDetails.m
+c000000004F3656850000000000000A49
+t1328961157
+s2633
+i"AcadContentDetails.h"
+i"FileWebView.h"
+i"Reachability.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContentDetails.xib
+c000000004EDB4AAC00000000000092D8
+t1322994348
+s37592
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/ExamDetails.h
+c000000004ECB7BFE000000000000054B
+t1321958398
+s1355
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/ExamDetails.m
+c000000004F3656A30000000000000522
+t1328961187
+s1314
+i"ExamDetails.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/ExamDetails.xib
+c000000004ECB81570000000000009B1E
+t1321959767
+s39710
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Exams.h
+c000000004ECB7C41000000000000029B
+t1321958465
+s667
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Exams.m
+c000000004F3679040000000000003377
+t1328969988
+s13175
+i"Exams.h"
+i"ExamDetails.h"
+i"JSON.h"
+i"asyncimageview.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Exams.xib
+c000000004ECB602900000000000055CC
+t1321951273
+s21964
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/FileWebView.h
+c000000004ED32D17000000000000021F
+t1322462487
+s543
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/FileWebView.m
+c000000004F377C3000000000000002BE
+t1329036336
+s702
+i"FileWebView.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/FileWebView.xib
+c000000004ED0C1A90000000000004621
+t1322303913
+s17953
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Globals.h
+c000000004F3785350000000000000385
+t1329038645
+s901
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/GradesColntroller.h
+c000000004ED4DE4200000000000002D8
+t1322573378
+s728
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/GradesColntroller.m
+c000000004F36579200000000000034A5
+t1328961426
+s13477
+i"GradesColntroller.h"
+i"JSON.h"
+i"asyncimageview.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/GradesColntroller.xib
+c000000004ED4D41400000000000057D5
+t1322570772
+s22485
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Help.h
+c000000004EB12A2500000000000000E3
+t1320233509
+s227
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Help.m
+c000000004F3783A00000000000000597
+t1329038240
+s1431
+i"Help.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Help.xib
+c000000004F378C220000000000005D5D
+t1329040418
+s23901
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Home.h
+c000000004F365964000000000000026A
+t1328961892
+s618
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Home.m
+c000000004F23C7F40000000000000D5B
+t1327745012
+s3419
+i"Home.h"
+i"Exams.h"
+i"AcadContent.h"
+i"HomeWork.h"
+i"Messages.h"
+i"LoginViewController.h"
+i"Reachability.h"
+i"VideoLectures.h"
+i"GradesColntroller.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Home.xib
+c000000004ED4D39A000000000000A7EC
+t1322570650
+s42988
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWordDetails.h
+c000000004EC7CCA000000000000004A6
+t1321716896
+s1190
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWordDetails.m
+c000000004F3657B4000000000000052B
+t1328961460
+s1323
+i"HomeWordDetails.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWordDetails.xib
+c000000004ECB81B30000000000008D4F
+t1321959859
+s36175
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWork.h
+c000000004ECB7302000000000000028D
+t1321956098
+s653
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWork.m
+c000000004F3657E3000000000000333F
+t1328961507
+s13119
+i"HomeWork.h"
+i"JSON.h"
+i"asyncimageview.h"
+i"HomeWordDetails.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWork.xib
+c000000004EC7877B00000000000055B6
+t1321699195
+s21942
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/JSON.h
+c000000004B93BE5E00000000000008F9
+t1267973726
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/NSObject+SBJSON.h
+c000000004B93BE5E0000000000000A01
+t1267973726
+s2561
+i<Foundation/Foundation.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/NSObject+SBJSON.m
+c000000004B93BE5E000000000000089E
+t1267973726
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/NSString+SBJSON.h
+c000000004B93BE5E0000000000000916
+t1267973726
+s2326
+i<Foundation/Foundation.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/NSString+SBJSON.m
+c000000004B93BE5E000000000000087D
+t1267973726
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJSON.h
+c000000004B93BE5E0000000000000AED
+t1267973726
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJSON.m
+c000000004B93BE5E0000000000001ABC
+t1267973726
+s6844
+i"SBJSON.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonBase.h
+c000000004B93BE5E0000000000000B82
+t1267973726
+s2946
+i<Foundation/Foundation.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonBase.m
+c000000004B93BE5E0000000000000AC1
+t1267973726
+s2753
+i"SBJsonBase.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonParser.h
+c000000004B93BE5E0000000000000C0B
+t1267973726
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonParser.m
+c000000004B93C6A300000000000036D0
+t1267975843
+s14032
+i"SBJsonParser.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonWriter.h
+c000000004B93BE5E0000000000001140
+t1267973726
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonWriter.m
+c000000004B93BE5E0000000000001F26
+t1267973726
+s7974
+i"SBJsonWriter.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/LoginViewController.h
+c000000004ECB768F0000000000000320
+t1321957007
+s800
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/LoginViewController.m
+c000000004F3654AA0000000000000E80
+t1328960682
+s3712
+i"LoginViewController.h"
+i"NewClassMoonAppDelegate.h"
+i"Reachability.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/LoginViewController.xib
+c000000004F3793300000000000008B31
+t1329042224
+s35633
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/MessageDetails.h
+c000000004ED361D40000000000000484
+t1322475988
+s1156
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/MessageDetails.m
+c000000004F3658410000000000000843
+t1328961601
+s2115
+i"MessageDetails.h"
+i"Reachability.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/MessageDetails.xib
+c000000004ED363540000000000008211
+t1322476372
+s33297
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Messages.h
+c000000004ED360D4000000000000027A
+t1322475732
+s634
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Messages.m
+c000000004F3658A100000000000031E3
+t1328961697
+s12771
+i"Messages.h"
+i"MessageDetails.h"
+i"JSON.h"
+i"asyncimageview.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Messages.xib
+c000000004ED348F1000000000000594F
+t1322469617
+s22863
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.h
+c000000004ECB97A70000000000000263
+t1321965479
+s611
+i<UIKit/UIKit.h>
+i"LoginViewController.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m
+c000000004ECB9BBA0000000000000614
+t1321966522
+s1556
+i"NewClassMoonAppDelegate.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Settings.h
+c000000004EDDF09500000000000001F4
+t1323167893
+s500
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Settings.m
+c000000004F2FD06D0000000000000D01
+t1328533613
+s3329
+i"Settings.h"
+i"NewClassMoonAppDelegate.h"
+i"LoginViewController.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/Settings.xib
+c000000004EE09E6C0000000000007477
+t1323343468
+s29815
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLectures.h
+c000000004ED32B2F00000000000002C8
+t1322461999
+s712
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLectures.m
+c000000004F3658E80000000000003757
+t1328961768
+s14167
+i"VideoLectures.h"
+i"VideoLecturesDetails.h"
+i"JSON.h"
+i"asyncimageview.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLectures.xib
+c000000004ED1DB47000000000000592C
+t1322376007
+s22828
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLecturesDetails.h
+c000000004ED32C190000000000000568
+t1322462233
+s1384
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLecturesDetails.m
+c000000004F377D940000000000000CD8
+t1329036692
+s3288
+i"VideoLecturesDetails.h"
+i"Reachability.h"
+i"Globals.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLecturesDetails.xib
+c000000004ED1F1930000000000008F07
+t1322381715
+s36615
+
+N/MAC Files/Xcode projects/NewClassMoon/Default.png
+c000000004EA906EC00000000000149D3
+t1319700204
+s84435
+
+N/MAC Files/Xcode projects/NewClassMoon/JSONS/asyncimageview.h
+c000000004EA3F5CE000000000000031D
+t1319368142
+s797
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/JSONS/asyncimageview.m
+c000000004EA3F17B0000000000000AA5
+t1319367035
+s2725
+i"AsyncImageView.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/NewClassMoon_Prefix.pch
+c000000004E9E9E5100000000000000C1
+t1319018065
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Reachability.h
+c000000004C3462DA0000000000000F1B
+t1278501594
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Reachability.m
+c000000004C3462DA000000000000239B
+t1278501594
+s9115
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/Settings.png
+c000000004CB828380000000000000CB7
+t1287137336
+s3255
+
+N/MAC Files/Xcode projects/NewClassMoon/bottomRow.png
+c000000004EA901500000000000000694
+t1319698768
+s1684
+
+N/MAC Files/Xcode projects/NewClassMoon/bottomRowSelected.png
+c000000004EA901D20000000000000776
+t1319698898
+s1910
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app.dSYM
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/1.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/2.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/3.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/4.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/5.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/8.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/About.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/About.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/AcadContent.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/AcadContentDetails.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Back.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/ClassMoon_Icon.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Default.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/ExamDetails.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Exams.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/FileWebView.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/GradesColntroller.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Help.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Home.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/HomeWordDetails.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/HomeWork.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Info.plist
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/LoginViewController.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/MainWindow.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/MessageDetails.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Messages.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/NewClassMoon
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/PkgInfo
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/ResourceRules.plist
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Settings.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Settings.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/VideoLectures.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/VideoLecturesDetails.nib
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/bottomRow.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/bottomRowSelected.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/course_default48.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/courses.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/gradientBackground.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/help.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/home.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/indicator.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/indicatorSelected.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/iphone_btn.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/logout.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/middleRow.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/middleRowSelected.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/topAndBottomRow.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/topAndBottomRowSelected.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/topRow.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/topRowSelected.png
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/About.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/AcadContent.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/AcadContentDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/ExamDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Exams.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/FileWebView.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/GradesColntroller.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Help.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Home.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/HomeWordDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/HomeWork.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/LoginViewController.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/MessageDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Messages.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NSObject+SBJSON.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NSString+SBJSON.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NewClassMoon
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NewClassMoon.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NewClassMoonAppDelegate.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Reachability.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/SBJSON.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/SBJsonBase.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/SBJsonParser.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/SBJsonWriter.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Settings.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/VideoLectures.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/VideoLecturesDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/asyncimageview.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/About.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/AcadContent.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/AcadContentDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/ExamDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Exams.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/FileWebView.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/GradesColntroller.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Help.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Home.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/HomeWordDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/HomeWork.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/LoginViewController.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/MessageDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Messages.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NSObject+SBJSON.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NSString+SBJSON.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NewClassMoon
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NewClassMoon.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NewClassMoonAppDelegate.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Reachability.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/SBJSON.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/SBJsonBase.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/SBJsonParser.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/SBJsonWriter.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Settings.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/VideoLectures.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/VideoLecturesDetails.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/asyncimageview.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/MAC Files/Xcode projects/NewClassMoon/course_default48.png
+c000000004ECCEC080000000000001A4B
+t1322052616
+s6731
+
+N/MAC Files/Xcode projects/NewClassMoon/courses.png
+c000000004CB828520000000000000BF9
+t1287137362
+s3065
+
+N/MAC Files/Xcode projects/NewClassMoon/gradientBackground.png
+c000000004EA905D100000000000135EC
+t1319699921
+s79340
+
+N/MAC Files/Xcode projects/NewClassMoon/help.png
+c000000004CB8284E0000000000000BCF
+t1287137358
+s3023
+
+N/MAC Files/Xcode projects/NewClassMoon/home.png
+c000000004CB828440000000000000B52
+t1287137348
+s2898
+
+N/MAC Files/Xcode projects/NewClassMoon/indicator.png
+c000000004EA9054300000000000002A1
+t1319699779
+s673
+
+N/MAC Files/Xcode projects/NewClassMoon/indicatorSelected.png
+c000000004EA9055D00000000000002A9
+t1319699805
+s681
+
+N/MAC Files/Xcode projects/NewClassMoon/iphone_btn.png
+c000000004ED0C1610000000000000CFC
+t1322303841
+s3324
+
+N/MAC Files/Xcode projects/NewClassMoon/logout.png
+c000000004CB828440000000000000BA7
+t1287137348
+s2983
+
+N/MAC Files/Xcode projects/NewClassMoon/main.m
+c000000004E9E9E510000000000000182
+t1319018065
+s386
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/middleRow.png
+c000000004EA9011B00000000000005EB
+t1319698715
+s1515
+
+N/MAC Files/Xcode projects/NewClassMoon/middleRowSelected.png
+c000000004EA9020200000000000006AB
+t1319698946
+s1707
+
+N/MAC Files/Xcode projects/NewClassMoon/topAndBottomRow.png
+c000000004EA902550000000000000747
+t1319699029
+s1863
+
+N/MAC Files/Xcode projects/NewClassMoon/topAndBottomRowSelected.png
+c000000004EA9026A0000000000000823
+t1319699050
+s2083
+
+N/MAC Files/Xcode projects/NewClassMoon/topRow.png
+c000000004EA9018E00000000000006A6
+t1319698830
+s1702
+
+N/MAC Files/Xcode projects/NewClassMoon/topRowSelected.png
+c000000004EA901BB000000000000077D
+t1319698875
+s1917
+
+N/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004C3B4D670000000000118EB0
+t1278954855
+s1150640
+
+N/var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-atszevljflmfmjhdqqpacpobzqqw/NewClassMoon_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-eqjbuwobxyyabyfrwzdsbbnmtrug/NewClassMoon_Prefix.pch.gch
+t2
+s0
+
+NNewClassMoon-Info.plist
+c000000004E9EAEB3000000000000039F
+t1319022259
+s927
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350735583#350735586#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain350735586#4294967295#0#0(1@0"0(0#1#0"2448147088#0"0#
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/About.o "/MAC Files/Xcode projects/NewClassMoon/About.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/AcadContent.o "/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContent.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/AcadContentDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContentDetails.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/ExamDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/ExamDetails.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Exams.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Exams.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/FileWebView.o "/MAC Files/Xcode projects/NewClassMoon/Classes/FileWebView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/GradesColntroller.o "/MAC Files/Xcode projects/NewClassMoon/Classes/GradesColntroller.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Help.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Help.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Home.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Home.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/HomeWordDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWordDetails.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/HomeWork.o "/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWork.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/LoginViewController.o "/MAC Files/Xcode projects/NewClassMoon/Classes/LoginViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/MessageDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/MessageDetails.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Messages.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Messages.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NSObject+SBJSON.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NSString+SBJSON.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NewClassMoonAppDelegate.o "/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Reachability.o "/MAC Files/Xcode projects/NewClassMoon/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/SBJSON.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/SBJsonBase.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/SBJsonParser.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/SBJsonWriter.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/Settings.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Settings.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/VideoLectures.o "/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLectures.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/VideoLecturesDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLecturesDetails.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/asyncimageview.o "/MAC Files/Xcode projects/NewClassMoon/JSONS/asyncimageview.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/main.o "/MAC Files/Xcode projects/NewClassMoon/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/About.o "/MAC Files/Xcode projects/NewClassMoon/About.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/AcadContent.o "/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContent.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/AcadContentDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContentDetails.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/ExamDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/ExamDetails.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Exams.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Exams.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/FileWebView.o "/MAC Files/Xcode projects/NewClassMoon/Classes/FileWebView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/GradesColntroller.o "/MAC Files/Xcode projects/NewClassMoon/Classes/GradesColntroller.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Help.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Help.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Home.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Home.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/HomeWordDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWordDetails.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/HomeWork.o "/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWork.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/LoginViewController.o "/MAC Files/Xcode projects/NewClassMoon/Classes/LoginViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/MessageDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/MessageDetails.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Messages.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Messages.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NSObject+SBJSON.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NSString+SBJSON.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NewClassMoonAppDelegate.o "/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Reachability.o "/MAC Files/Xcode projects/NewClassMoon/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/SBJSON.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/SBJsonBase.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/SBJsonParser.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/SBJsonWriter.o "/MAC Files/Xcode projects/NewClassMoon/Classes/JSON/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/Settings.o "/MAC Files/Xcode projects/NewClassMoon/Classes/Settings.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/VideoLectures.o "/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLectures.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/VideoLecturesDetails.o "/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLecturesDetails.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/asyncimageview.o "/MAC Files/Xcode projects/NewClassMoon/JSONS/asyncimageview.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/main.o "/MAC Files/Xcode projects/NewClassMoon/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/About.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/../MainWindow.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContent.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/AcadContentDetails.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/ExamDetails.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/Exams.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/FileWebView.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/GradesColntroller.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/Help.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/Home.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWordDetails.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/HomeWork.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/LoginViewController.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/MessageDetails.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/Messages.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/Settings.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLectures.xib"
+r0
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/Classes/VideoLecturesDetails.xib"
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/1.png" 1.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/2.png" 2.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/3.png" 3.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/4.png" 4.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/5.png" 5.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/8.png" 8.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/About.png" About.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Back.png" Back.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/ClassMoon_Icon.png" ClassMoon_Icon.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Settings.png" Settings.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/bottomRow.png" bottomRow.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/bottomRowSelected.png" bottomRowSelected.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/course_default48.png" course_default48.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/courses.png" courses.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/gradientBackground.png" gradientBackground.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/help.png" help.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/home.png" home.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/indicator.png" indicator.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/indicatorSelected.png" indicatorSelected.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/iphone_btn.png" iphone_btn.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/logout.png" logout.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/middleRow.png" middleRow.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/middleRowSelected.png" middleRowSelected.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/topAndBottomRow.png" topAndBottomRow.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/topAndBottomRowSelected.png" topAndBottomRowSelected.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/topRow.png" topRow.png
+r0
+
+CCopyPNGFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/topRowSelected.png" topRowSelected.png
+r0
+
+CCpResource build/Debug-iphoneos/NewClassMoon.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/NewClassMoon" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app.dSYM" "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/NewClassMoon"
+r0
+
+CLd "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv6/NewClassMoon" normal armv6
+r0
+
+CLd "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphoneos/NewClassMoon.build/Objects-normal/armv7/NewClassMoon" normal armv7
+r0
+
+CProcessInfoPlistFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app/Info.plist" NewClassMoon-Info.plist
+r0
+
+CProcessPCH /var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-atszevljflmfmjhdqqpacpobzqqw/NewClassMoon_Prefix.pch.gch NewClassMoon_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-eqjbuwobxyyabyfrwzdsbbnmtrug/NewClassMoon_Prefix.pch.gch NewClassMoon_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphoneos/NewClassMoon.app"
+r0
+

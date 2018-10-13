@@ -1,0 +1,207 @@
+TNewClassMoon
+v7
+r0
+t340711605.300071
+cCheck dependencies
+cProcessInfoPlistFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/Info.plist" NewClassMoon-Info.plist
+cCompileXIB "/MAC Files/Xcode projects/NewClassMoon/MainWindow.xib"
+cProcessPCH /var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-amnogmmnkkrdpnfsluicydimtpnq/NewClassMoon_Prefix.pch.gch NewClassMoon_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/main.o "/MAC Files/Xcode projects/NewClassMoon/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/NewClassMoonAppDelegate.o "/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon" normal i386
+cGenerateDSYMFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app.dSYM" "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon"
+cTouch "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.h
+c000000004E9E9E51000000000000016A
+t1319018065
+s362
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m
+c000000004E9E9E5100000000000009F6
+t1319018065
+s2550
+i"NewClassMoonAppDelegate.h"
+
+N/MAC Files/Xcode projects/NewClassMoon/MainWindow.xib
+c000000004E9EA12D0000000000005EC5
+t1319018797
+s24261
+
+N/MAC Files/Xcode projects/NewClassMoon/NewClassMoon_Prefix.pch
+c000000004E9E9E5100000000000000C1
+t1319018065
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app
+t1319018805
+s204
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app.dSYM
+t1319018805
+s102
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/Info.plist
+t1319018799
+s611
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/MainWindow.nib
+t1319018801
+s2540
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon
+t1319018805
+s15784
+
+N/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/PkgInfo
+t1319018799
+s8
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/NewClassMoon.LinkFileList
+c000000004E9EA12F000000000000011B
+t1319018799
+s283
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/NewClassMoonAppDelegate.o
+t1319018804
+s49972
+
+N/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/main.o
+t1319018804
+s6312
+
+N/MAC Files/Xcode projects/NewClassMoon/main.m
+c000000004E9E9E510000000000000182
+t1319018065
+s386
+i<UIKit/UIKit.h>
+
+N/var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-amnogmmnkkrdpnfsluicydimtpnq/NewClassMoon_Prefix.pch.gch
+t1319018803
+s10626972
+
+NNewClassMoon-Info.plist
+c000000004E9E9E51000000000000038D
+t1319018065
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340711599#340711599#0(0"0(0#1#0"2448147088#0"0#
+
+CCompileC build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/NewClassMoonAppDelegate.o "/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s340711604.337332
+e340711604.878275
+r1
+xCompileC
+xbuild/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/NewClassMoonAppDelegate.o
+x/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m340711604#340711604#0(0"0(0#0#72"/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m2448147088#2082"    cd "/MAC Files/Xcode projects/NewClassMoon"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-generated-files.hmap" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-own-target-headers.hmap" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-all-target-headers.hmap" -iquote "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-project-headers.hmap" "-F/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator" "-I/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/include" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/DerivedSources/i386" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/DerivedSources" -include /var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-amnogmmnkkrdpnfsluicydimtpnq/NewClassMoon_Prefix.pch -c "/MAC Files/Xcode projects/NewClassMoon/Classes/NewClassMoonAppDelegate.m" -o "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/NewClassMoonAppDelegate.o"0#
+
+CCompileC build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/main.o "/MAC Files/Xcode projects/NewClassMoon/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s340711603.830598
+e340711604.337244
+r1
+xCompileC
+xbuild/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/main.o
+x/MAC Files/Xcode projects/NewClassMoon/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /MAC Files/Xcode projects/NewClassMoon/main.m340711603#340711604#0(0"0(0#0#45"/MAC Files/Xcode projects/NewClassMoon/main.m2448147088#2036"    cd "/MAC Files/Xcode projects/NewClassMoon"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-generated-files.hmap" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-own-target-headers.hmap" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-all-target-headers.hmap" -iquote "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-project-headers.hmap" "-F/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator" "-I/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/include" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/DerivedSources/i386" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/DerivedSources" -include /var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-amnogmmnkkrdpnfsluicydimtpnq/NewClassMoon_Prefix.pch -c "/MAC Files/Xcode projects/NewClassMoon/main.m" -o "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/MAC Files/Xcode projects/NewClassMoon/MainWindow.xib"
+s340711599.559054
+e340711602.043541
+r1
+xCompileXIB
+x/MAC Files/Xcode projects/NewClassMoon/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib340711599#340711602#0(0"0(0#0#53"/MAC Files/Xcode projects/NewClassMoon/MainWindow.xib2448147088#581"    cd "/MAC Files/Xcode projects/NewClassMoon"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/MainWindow.nib" "/MAC Files/Xcode projects/NewClassMoon/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app.dSYM" "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon"
+s340711605.071478
+e340711605.260999
+r1
+xGenerateDSYMFile
+x/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app.dSYM
+x/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/NewClassMoon.app.dSYM build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon340711605#340711605#0(0"0(0#0#96"/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon2448147088#404"    cd "/MAC Files/Xcode projects/NewClassMoon"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon" -o "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app.dSYM"0#
+
+CLd "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon" normal i386
+s340711604.878363
+e340711605.071404
+r1
+xLd
+x/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon
+xnormal
+xi386
+lSLF07#2@101"Link /MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon340711604#340711605#0(0"0(0#0#0"2448147088#935"    cd "/MAC Files/Xcode projects/NewClassMoon"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator" "-F/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator" -filelist "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/Objects-normal/i386/NewClassMoon.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/NewClassMoon"0#
+
+CProcessInfoPlistFile "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/Info.plist" NewClassMoon-Info.plist
+s340711599.524636
+e340711599.558981
+r1
+xProcessInfoPlistFile
+x/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/Info.plist
+xNewClassMoon-Info.plist
+lSLF07#2@31"Process NewClassMoon-Info.plist340711599#340711599#0(0"0(0#0#62"/MAC Files/Xcode projects/NewClassMoon/NewClassMoon-Info.plist2448147088#500"    cd "/MAC Files/Xcode projects/NewClassMoon"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NewClassMoon-Info.plist -genpkginfo "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app/Info.plist"0#
+
+CProcessPCH /var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-amnogmmnkkrdpnfsluicydimtpnq/NewClassMoon_Prefix.pch.gch NewClassMoon_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s340711602.043852
+e340711603.830174
+r1
+xProcessPCH
+x/var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-amnogmmnkkrdpnfsluicydimtpnq/NewClassMoon_Prefix.pch.gch
+xNewClassMoon_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile NewClassMoon_Prefix.pch340711602#340711603#0(0"0(0#0#62"/MAC Files/Xcode projects/NewClassMoon/NewClassMoon_Prefix.pch2448147088#1921"    cd "/MAC Files/Xcode projects/NewClassMoon"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-generated-files.hmap" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-own-target-headers.hmap" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-all-target-headers.hmap" -iquote "/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/NewClassMoon-project-headers.hmap" "-F/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator" "-I/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/include" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/DerivedSources/i386" "-I/MAC Files/Xcode projects/NewClassMoon/build/NewClassMoon.build/Debug-iphonesimulator/NewClassMoon.build/DerivedSources" -c "/MAC Files/Xcode projects/NewClassMoon/NewClassMoon_Prefix.pch" -o /var/folders/4t/4t68q0PCGqahUI-WlpHNI++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NewClassMoon_Prefix-amnogmmnkkrdpnfsluicydimtpnq/NewClassMoon_Prefix.pch.gch0#
+
+CTouch "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app"
+s340711605.261065
+e340711605.300026
+r1
+xTouch
+x/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app
+lSLF07#2@89"Touch /MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app340711605#340711605#0(0"0(0#0#0"2448147088#287"    cd "/MAC Files/Xcode projects/NewClassMoon"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/MAC Files/Xcode projects/NewClassMoon/build/Debug-iphonesimulator/NewClassMoon.app"0#
+
